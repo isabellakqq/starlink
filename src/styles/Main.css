@@ -1,0 +1,12 @@
+.main {
+  position: relative;
+  height: 760px;
+}
+
+.left-side {
+  padding: 20px;
+}
+
+.right-side {
+  height: 760px;
+}

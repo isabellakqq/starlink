@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  min-height: 100vh; /* 100vh: means 100% of the viewport height */
+  overflow: hidden;
+  display: block;
+  position: relative;
+  padding-bottom: 5px;
+}
